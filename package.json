@@ -1,0 +1,25 @@
+{
+  "name": "djs",
+  "version": "0.0.0",
+  "description": "JavaScript porcelain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "porcelain"
+  ],
+  "author": "lzh",
+  "license": "0BSD",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/generator": "^7.1.5",
+    "@babel/types": "^7.2.2",
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3"
+  }
+}
