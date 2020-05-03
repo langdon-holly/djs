@@ -14,12 +14,12 @@
   "author": "lzh",
   "license": "0BSD",
   "dependencies": {
-    "@babel/core": "^7.2.2",
-    "@babel/generator": "^7.1.5",
-    "@babel/types": "^7.2.2",
-    "lodash": "^4.17.11"
+    "@babel/core": "^7.9.6",
+    "@babel/generator": "^7.9.6",
+    "@babel/types": "^7.9.6",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.3"
+    "@babel/cli": "^7.8.4"
   }
 }
